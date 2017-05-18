@@ -44,6 +44,6 @@ fi
 
 echo When you are ready, reboot the system.
 
-docker.service can be controlled using the command:
+echo docker.service can be controlled using the command:
 
 echo sudo systemctl start|sop docker.service
